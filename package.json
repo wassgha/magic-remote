@@ -7,7 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.1",
     "color": "^3.1.0",
     "coordinate-systems": "^1.1.0",
